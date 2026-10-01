@@ -1,0 +1,6 @@
+{
+  "name": "CropGuard AI Pro",
+  "description": "SSA025 Crop-yield forecasting system that estimates expected yield from historical crop, soil, weather and cultivation information. TEAM ID: TSS002.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
